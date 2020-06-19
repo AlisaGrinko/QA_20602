@@ -10,7 +10,7 @@ pr: none
 # - master
 
 schedules:
-- cron: "05 01 * * *"
+- cron: "15 01 * * *"
   displayName: Custom time
   branches:
     include:
